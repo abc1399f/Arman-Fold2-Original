@@ -1,3 +1,3 @@
-# Arman-Fold1-Original
+# Arman-Fold2-Original
 
-original image detection on raspberry pi- Fold1
+original image detection on raspberry pi- Fold2
